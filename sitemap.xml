@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://kentaro-meo.github.io/kayakuda/</loc>
     <lastmod>2025-08-03T06:28:14+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://kentaro-meo.github.io/kayakuda/posts/</loc>
     <lastmod>2025-08-03T06:28:14+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://kentaro-meo.github.io/kayakuda/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://kentaro-meo.github.io/kayakuda/tags/</loc>
   </url>
 </urlset>
