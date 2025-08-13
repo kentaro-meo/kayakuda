@@ -1,9 +1,0 @@
-baseURL = 'https://kayakuda.com/'
-languageCode = 'ja-jp'
-title = 'kayakuda web site'
-theme = 'ananke'
-googleAnalytics = 'G-VL8ZYD4MNG'
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
