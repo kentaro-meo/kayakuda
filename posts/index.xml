@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kayakuda web site</title>
-    <link>https://kayakuda.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on kayakuda web site</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 03 Aug 2025 06:28:14 +0900</lastBuildDate>
-    <atom:link href="https://kayakuda.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1st Post</title>
-      <link>https://kayakuda.com/posts/1st-post/</link>
+      <link>http://localhost:1313/posts/1st-post/</link>
       <pubDate>Sun, 03 Aug 2025 06:28:14 +0900</pubDate>
-      <guid>https://kayakuda.com/posts/1st-post/</guid>
-      <description>&lt;h3 id=&#34;はじめてのweb-site作成&#34;&gt;はじめてのweb site作成&lt;/h3&gt;&#xA;&lt;p&gt;いま私は副業でMEOコンサルタントを目指しています。&lt;br&gt;&#xA;その準備の一環としてweb siteを作成しました。&lt;br&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/1st-post/</guid>
+      <description>&lt;h3 id=&#34;はじめてのweb-site作成&#34;&gt;はじめてのweb site作成&lt;/h3&gt;&#xA;&lt;p&gt;いま私は副業でMEOコンサルタントを目指しています。&lt;!-- raw HTML omitted --&gt;&#xA;その準備の一環としてweb siteを作成しました。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
